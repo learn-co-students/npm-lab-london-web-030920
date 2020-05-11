@@ -1,0 +1,25 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "color-clock package.sjon",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Hello World!'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Premti/npm-lab-london-web-030920.git"
+  },
+  "keywords": [
+    "premti"
+  ],
+  "author": "Premti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Premti/npm-lab-london-web-030920/issues"
+  },
+  "homepage": "https://github.com/Premti/npm-lab-london-web-030920#readme",
+  "dependencies": {
+    "moment": "^2.25.3"
+  }
+}
